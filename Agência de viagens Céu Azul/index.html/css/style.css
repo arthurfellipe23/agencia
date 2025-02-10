@@ -1,0 +1,36 @@
+
+.logo-img {
+    width: 100px; 
+    height: auto; 
+    margin-right: 15px;
+}
+
+.hero h2 {
+    font-size: 3em;
+}
+
+.hero p {
+    font-size: 1.5em;
+}
+
+.destino img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.pacote button {
+    padding: 10px 20px;
+    background-color: #2980b9;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.pacote button:hover {
+    background-color: #3498db;
+}
+
+footer {
+    font-size: 1.2em;
+}
